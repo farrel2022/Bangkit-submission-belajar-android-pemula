@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">Daftar Pemain Terbaik NBA</string>
+
+    <string name="player_name">Nama Pemain</string>
+    <string name="description">Deskripsi</string>
+    <string name="about">About</string>
+    <string name="about_profile_name">Farrel Feno Fatin</string>
+    <string name="about_name">a296bsy2464@bangkit.academy</string>
+
+    <string-array name="data_name">
+        <item>1. Michael Jordan</item>
+        <item>2. Magic Johnson</item>
+        <item>3. Wilt Chamberlain</item>
+        <item>4. Kareem Abdul-Jabbar</item>
+        <item>5. Lebron James</item>
+        <item>6. Larry Bird</item>
+        <item>7. Kobe Bryant</item>
+        <item>8. Bill Russel</item>
+        <item>9. Tim Duncan</item>
+        <item>10. Stephen Curry</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Michael Jeffrey Jordan lahir pada 17 Februari 1963 di Brooklyn, New York, Amerika Serikat. Michael Jordan adalah salah satu pemain legendaris dari Tim Chigago Bulls.
+        Secara aklamasi, Michael Jordan adalah pemain bola basket terhebat sepanjang masa. Meskipun ringkasan karir bola basketnya dan pengaruhnya terhadap permainan pasti gagal untuk memberikan keadilan, sebagai atlet fenomenal dengan kombinasi unik dari kesehatan fundamental, keanggunan, kecepatan, kekuatan, seni, kemampuan improvisasi dan hasrat kompetitif yang tak terpadamkan, Jordan single -dengan sendirinya mendefinisikan ulang superstar NBA.
+        Bahkan superstar kontemporer pun mengakui posisi Yordania yang tak tertandingi. Magic Johnson berkata, “Ada Michael Jordan dan kita semua.” Larry Bird, setelah pertandingan playoff di mana Jordan kehilangan 63 poin atas Boston Celtics di musim keduanya, penilaian terhadap pemain muda tersebut adalah: “Tuhan menyamar sebagai Michael Jordan.”
+        Daftar singkat pencapaian puncaknya mencakup hal-hal berikut: Rookie of the Year; MVP NBA lima kali; Juara NBA enam kali; MVP Final NBA enam kali; Sepuluh kali Tim Utama All-NBA; Sembilan kali Tim Utama All-Defensive NBA; Pemain Bertahan Terbaik Tahun Ini; 14 kali NBA All-Star; MVP NBA All-Star tiga kali;  Sepuluh gelar pencetak gol — rekor NBA dan tujuh pertandingan menyamai Wilt Chamberlain;
+        Pensiun dengan rata-rata skor tertinggi NBA sebesar 30,1ppg; Penerima Hall of Fame.</item>
+        <item>Earvin "Magic" Johnson, Jr. (lahir 14 Agustus 1959) adalah pemain bola basket Amerika Serikat. Ia adalah salah satu pelempar bola dan point guard terbaik dalam sejarah pertandingan NBA. Magic Johnson bermain sebagai point guard di Los Angeles Lakers selama 13 musim kompetisi. Setelah menjuarai kejuaraan di sekolah menengah atas dan Universitas magic Johnson dipilih oleh Los Angeles Lakers pada NBA draft pilihan pertama tahun 1979.
+         Ia bisa disebut sebagai pemain basket terhebat sepanjang waktu karena banyak memenangkan kejuaraaan-kejuaraan di setiap level kompetisi - SMA, Universitas, professional, dan internasional. Karier kuliahnya dimulai di Michigan State University mulai bermain basket di kampusnya. Pada kejuaraan nasional tahun 1979 antara Michigan State dan Larry Bird kampus Indiana State, mengantarkan Michigan State memenangkan NCAA Championship,
+         telah dilihat oleh sebagian bola basket kampus dalam sejarah pertandingan. Ia konsisten dengan karier profesionalnya selama 13 musim dengan Los Angeles Lakers, di mana ia memenangkan 5 kejuaraan NBA, namanya memperkuat NBA All-Star team 12 kali, mendapat MVP liga 3 kali, dan NBA Finals MVP 3 kali. Ia juga dimasukkan dalam Naismith Memorial Basketball Hall of Fame tahun 2002, dan masuk dalam hitungan NBA 50th Anniversary All-Time Team tahun 1996.</item>
+        <item>Wilton Norman Chamberlain lahir pada 21 Agustus 1936 di Philadelphia, Pennsylvania, Amerika Serikat. Salah satu pemain yang mencetak 100 poin dalam satu pertandingan.Ia pernah bermain dalam klub Philadelphia, Philadelphia 76ers dan Los Angeles Lakers. Pada tanggal 24 November 1960, ia berhasil meraih 55 rebound saat Warriors melawan Boston Celtics, di mana terdapat rivalnya, Bill Russell dan rekor itu masih bertahan hingga masa kini.
+        Sepuluh tahun kemudian, Chamberlain mencetak angka ke-30.000 sepanjang kariernya. Ia merupakan pencetak poin terbanyak dalam sejarah NBA, sebelum akhirnya dipatahkan oleh Kareem Abdul Jabbar pada tanggal 5 April 1984. Sepanjang kariernya, ia berhasil meraih 23.924 rebound dan jumlah rebound tersebut merupakan yang terbanyak dalam sejarah. Bersama dengan Michael Jordan, ia merupakan pemain terbanyak dalam rata-rata point per game, yaitu 30,1 PPG.
+        Sepanjang kariernya, ia banyak memperoleh penghargaan, di antaranya 2 kali juara NBA(1967, 1972), 4 kali NBA MVP (1960, 1966-1968), 1 kali NBA Finals (1972), dan 1960 NBA Rookie of the Year. Chamberlain juga merupakan satu pemain dari dua pemain yang gagal dalam lemparan bebas lebih dari 500 kali. Dalam kariernya, ia gagal memasukkan lemparan bebas sebanyak 5.805 kali dengan akurasi lemparan bebas dalam kariernya hanya mencapai 51,1%</item>
+        <item>Ferdinand Lewis Alcindor lahir pada 16 April 1947 di Harlem, New York, Amerika Serikat. Kareem Abdul-Jabbar tercatat mencetak 38.387 poin selama menjadi pemain NBA. Kareem Abdul-Jabbar memulai kariernya pada 1969 dan pensiun pada 1989. Itu artinya Kareem bermain di NBA selama 20 tahun dengan penampilan yang sangat konsisten. Bahkan ia masih masuk All-Star pada musim terakhirnya di usia 42 tahun.
+        Ketika usia mudanya pada dekade 70-an, Kareem jelas menjadi pemain terbaik di eranya. Kemudian ketika memasuki era 80-an Kareem menjadi tandem yang sempurna bagi Magic Johnson. Sepanjang kariernya, Kareem punya catatan 24,6 poin, 11,2 rebound, dan 3,6 assists per game. Bahkan ia masih menjadi pencetak poin terbanyak sepanjang masa NBA dengan 38.387 poin berkat konsistensinya dalam karier yang panjang.
+        Berbicara mengenai prestasi, Kareem punya segudang gelar yang bisa ia banggakan. Kareem merupakan pemilik gelar MVP terbanyak dengan 6 gelar. Ia juga punya 6 cincin juara, 19 kali masuk All-Star, dan 2 kali menjadi Final MVP.
+        Selain itu, Kareem juga tercatat 2 kali mendapat scoring title, 1 kali rebounding champion, dan 4 kali block leader. Bahkan nomor 33 miliknya kini dipensiunkan oleh Milwaukee Bucks dan Los Angeles Lakers. Kareem juga masuk dalam 75 pemain terbaik NBA sepanjang masa. </item>
+        <item>LeBron Raymone James lahir pada 30 Desember 1984 di Akron, Ohio, Amerika Serikat. Lebron James tercatat sebagai pencetak poin terbanyak di sejarah NBA. James memimpin Cleveland hingga penampilan Finals pertama Cavaliers di 2007, kalah dari San Antonio Spurs.
+        Tahun 2010, ia meninggalkan Cavaliers untuk bermain membela Miami Heat dalam publikasi spesial ESPN yang berjudul The Decision. James bermain 4 musim untuk Heat, mencapai Finals setiap tahunnya dan memenangkan kejuaraan secara beruntun tahun 2012 dan 2013. Tahun 2013, ia memimpin Miami dalam 27 kemenangan beruntun, ketiga terbanyak dalam sejarah NBA. Menjelang musim terakhirnya di Miami Heat,
+        James memutuskan tidak memperbarui kontraknya dan bergabung kembali ke Cavaliers. Dengan kepemimpinannya, Cleveland melaju ke 2 Finals beruntun (5 dan 6 beruntun untuk James) melawan Golden State Warriors, memenangkannya pada tahun 2016. James telah memenangkan 4 NBA championships (2012, 2013, 2016, 2020), 4 NBA Most Valuable Player Awards (2009, 2010, 2012, 2013), 4 NBA Finals MVP Awards (2012, 2013, 2016,2020), 2 Olympic gold medals (2008, 2012),
+        1 NBA scoring title (2008), dan NBA Rookie of the Year Award (2004). Ia juga terpilih 18 kali dalam tim NBA All-Star (dinamai 2 kali MVP), 13 All-NBA teams, dan 6 All-Defensive teams, serta leading scorer Cavaliers sepanjang masa.</item>
+        <item>Larry Joe Bird lahir pada 7 Desember 1956 di West Baden Springs, Indiana, Amerika Serikat. Awal karir Larry terjadi pada tahun 1978 ketika ia terpilih bermain untuk Boston Celtics. Namun Larry menolak tawaran tersebut dan memutuskan bermain di musim terakhir untuk Indiana State. Dia terus bermain dan memimpin tim untuk lolos ke perebutan gelar NCAA.L arry Bird adalah salah satu pemain legendaris dari Tim Boston Celtics. Gelar yang didapat Larry Bird, antara lain Juara NBA tiga kali (1981, 1984, 1986), MVP Final NBA dua kali (1984, 1986), MVP NBA tiga kali (1984-86), 12 kali NBA All-Star (1980-88, 1990-92), Sembilan kali Tim Utama All-NBA (1980-88), Tim Kedua Seluruh NBA (1990),
+         Tim Kedua Bertahan All-NBA sebanyak tiga kali (1982-84), Rookie Terbaik NBA Tahun Ini (1980), Tim All-Rookie NBA (1980), Juara Kontes Tiga Poin NBA tiga kali (1986-88), Poin tertinggi dalam karier: 60 (12 Maret 1985) setara dengan rekor franchise bersama Jayson Tatum, dan Nomor 33 dipensiunkan oleh Celtics.</item>
+        <item>Kobe Bean Bryant lahir pada 23 Agustus 1978 di Philadelphia, Pennsylvania, Amerika Serikat. Selama karirnya Kobe hanya barmain untuk tim Los Angeles Lakers. Pada musim keduanya bersama Lakers, Bryant terpilih sebagai starter untuk All–Star Game 1998, menjadi All-Star termuda dalam sejarah NBA pada usia 19 tahun. Shooting guard tersebut menang kejuaraan tiga kali berturut- turut . Kejuaraan NBA dan terpilih sebagai tim utama all-NBA dari 2002-2004. \
+        Dia juga menandatangani perjanjian dukungan multi-tahun dengan Adidas, Sprite dan sponsor utama lainnya. Meski Lakers kesulitan pada 2004, Bryant tampil gemilang. Dia mencetak 81 poin melawan Toronto Raptors pada Januari 2006, rekor permainan tunggal tertinggi kedua dalam sejarah NBA, dan memimpin liga dalam mencetak gol pada tahun itu dan tahun berikutnya. Pada tahun 2008, Bryant dinobatkan sebagai Pemain Paling Berharga dan membawa timnya ke Final NBA, di mana mereka kalah dari Boston Celtics. Di Final NBA 2009, Lakers mengalahkan Orlando Magic untuk memenangkan kejuaraan. Tak lama kemudian, Bryant menjadi bagian dari upacara peringatan untuk menghormati teman dan superstar musik Michael Jackson .
+        Tahun berikutnya, Lakers memenangkan gelar kedua berturut-turut dengan mengalahkan Celtics. Kobe Bryant, putrinya Gianna, dan 7 orang lainnya tewas secara tragis dalam kecelakaan helikopter pada 26 Januari 2020. Ia dan putrinya dimakamkan di sebuah peringatan pribadi pada 7 Februari dan peringatan publik diadakan di Staples Center pada 24 Februari.</item>
+        <item>William Felton Russell lahir pada 12 Februari 1934 di West Monroe, Louisiana, Amerika Serikat. Bill Russel adalah pemain dengan kejuaraan terbanyak yakni 11 kejuaraan. Kejuaraan tersebut diraih bersama dengan tim Boston Celtics pada tahun 1957, 1959, 1960, 1961, 1962, 1963, 1964, 1965, 1966, 1968, dan 1969. Wilt Chamberlain sering dianggap satu-satunya saingan yang layak pada era Russell. Chamberlain, yang meninggal pada 1999 dalam usia 63, memiliki poin dua kali lebih banyak, empat trofi MVP dan satu-satunya orang dalam sejarah liga yang meraih lebih banyak rebound daripada Russell, yakni 23.924 berbanding 21.620.
+        Bill Russel meninggal dunia pada 1 Agusutus 2022. </item>
+        <item>Timothy Theodore Duncan lahir pada 25 April 1976 di Santa Cruz, Kepulauan Virgin. Tim Duncan hanya menghabiskan 19 tahun karirnya di Tim San Antonio Spurs. Duncan pertama kali bermain pada kompetisi NBA tahun 1997-1998 dan menggunakan kostum nomor punggung 21. Pada tahun 1998 ia meraih gelar pemain pendatang terbaik (Rookie Of The Year). Dia bersama rekannya David Robinson dijuluki menara kembar dan membawa Spurs meraih gelar juara NBA tahun 1999,
+         selain itu dia salah satu bagian dari trio handalan spurs saat ini yang diperkuat Manu Ginobili, Tony Parker lalu membawa kembali Spurs meraih gelar juara NBA tahun 2003, 2005,2007 dan 2014. pada tanggal 26 Desember 2001 saat melawan Dallas ia menorehkan perolehan angka tertingginya dengan mencetak 53 angka. Tercatat Tim Duncan telah memenangkan kejuaraan NBA sebanyak 5 kali.</item>
+        <item>Wardell Stephen Curry II lahir pada 14 Maret 1988 di Akron, Ohio, Amerika Serikat. Stephen Curry tercatat sebagai pencetak three point terbanyak dalam sejarah NBA. Bersama Golden State Warriors, Stephen Curry berhasil menjuarai berbagai kompetisi dan menerima berbagai penghargaan atas prestasi yang ditorehkannya seperti Juara NBA (2015, 2017, 2018), Pemain paling berha rga NBA (2015, 2016), NBA All-Star (2014-2019, 2021, 2022), NBA All-Star Game MVP (2022), Tim Utama All-NBA (2015, 2016, 2019, 2021), Tim Kedua All-NBA (2014, 2017), Tim Ketiga All-NBA (2018), Juara skor NBA (2016, 2021), 50-40-90 Klub (2016),
+         Juara Kompetisi 3 Point NBA (2015, 2021), Juara NBA All-Star Weekend Skills Challenge (2011), Tim Utama , All-Rookie NBA (2010), Penghargaan Olahraga NBA (2011), Konsensus tim pertama All-American (2009), Konsensus tim kedua All-American (2008), Pemimpin penilaian musim NCAA (2009),dan Tim Utama All-SoCon (2007-2009)</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/jordan</item>
+        <item>@drawable/johnson</item>
+        <item>@drawable/will</item>
+        <item>@drawable/jabbar</item>
+        <item>@drawable/lebron</item>
+        <item>@drawable/larry</item>
+        <item>@drawable/kobe</item>
+        <item>@drawable/bill</item>
+        <item>@drawable/duncan</item>
+        <item>@drawable/curry</item>
+    </integer-array>
+    <integer-array name="about_photo">
+     <item>@drawable/profil</item>
+    </integer-array>
+
+</resources>
