@@ -1,12 +1,12 @@
 # BANGKIT-SUBMISSION-BELAJAR-ANDROID-PEMULA
 
-*Empowering Beginners to Build with Confidence*
+*Memberdayakan Pemula untuk Membangun dengan Percaya Diri*
 
 [![GitHub commit](https://img.shields.io/github/last-commit/farrel2022/bangkit-submission-belajar-android-pemula)](https://github.com/farrel2022/bangkit-submission-belajar-android-pemula/commits/main)
 ![GitHub repo size](https://img.shields.io/github/repo-size/farrel2022/bangkit-submission-belajar-android-pemula)
 ![GitHub language count](https://img.shields.io/github/languages/count/farrel2022/bangkit-submission-belajar-android-pemula)
 
-Built with the tools and technologies:
+Dibangun dengan alat dan teknologi:
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?logo=kotlin&logoColor=white&style=for-the-badge)
 ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge)
@@ -17,38 +17,38 @@ Built with the tools and technologies:
 
 ---
 
-## Table of Contents
+## Daftar Isi
 
-- [Overview](#overview)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Testing](#testing)
-
----
-
-## Overview
-
-**Bangkit-submission-belajar-android-pemula** is a beginner-focused Android project designed to facilitate learning through a clean, organized codebase and streamlined build process.  
-It provides a foundational structure for developing Android apps with best practices in mind.
-
-### Why bangkit-submission-belajar-android-pemula?
-
-This project aims to support novice Android developers by offering a well-structured template that simplifies app creation.  
-The core features include:
-
-- **Dependency Management**: Centralized build scripts ensure consistent plugin and dependency resolution across modules.  
-- **Modular Architecture**: Clear separation of activities, adapters, and models for maintainability and scalability.  
-- **Build Automation**: Kotlin DSL scripts streamline configuration and updates, reducing setup time.  
-- **Testing Framework**: Built-in unit and instrumented tests promote reliable development practices.  
-- **Focused Learning**: Designed to guide beginners through core Android concepts with practical examples.  
+- [Ringkasan](#ringkasan)
+- [Memulai](#memulai)
+  - [Prasyarat](#prasyarat)
+  - [Instalasi](#instalasi)
+  - [Penggunaan](#penggunaan)
+  - [Pengujian](#pengujian)
 
 ---
 
-## Getting Started
+## Ringkasan
 
-### Prerequisites
-- [Android Studio](https://developer.android.com/studio) installed  
-- Java Development Kit (JDK 17 or later)  
-- Gradle (bundled with Android Studio)  
+**Bangkit-submission-belajar-android-pemula** adalah proyek Android yang berfokus untuk pemula, dirancang untuk mempermudah pembelajaran melalui kode yang bersih, terorganisasi, dan proses build yang sederhana.  
+Proyek ini menyediakan struktur dasar untuk mengembangkan aplikasi Android dengan praktik terbaik.
+
+### Mengapa bangkit-submission-belajar-android-pemula?
+
+Proyek ini bertujuan mendukung developer Android pemula dengan memberikan template terstruktur yang mempermudah pembuatan aplikasi.  
+Fitur utama yang disediakan antara lain:
+
+- **Manajemen Dependensi**: Skrip build terpusat memastikan plugin dan dependensi selalu konsisten di setiap modul.  
+- **Arsitektur Modular**: Pemisahan jelas antara activity, adapter, dan model untuk memudahkan pemeliharaan dan skalabilitas.  
+- **Otomatisasi Build**: Skrip Kotlin DSL menyederhanakan konfigurasi dan update, sehingga mengurangi waktu setup.  
+- **Kerangka Pengujian**: Unit test dan instrumented test bawaan untuk mendorong praktik pengembangan yang andal.  
+- **Pembelajaran Terfokus**: Dirancang untuk membimbing pemula melalui konsep inti Android dengan contoh nyata.  
+
+---
+
+## Memulai
+
+### Prasyarat
+- [Android Studio](https://developer.android.com/studio) sudah terpasang  
+- Java Development Kit (JDK 17 atau lebih baru)  
+- Gradle (sudah termasuk di Android Studio)  
